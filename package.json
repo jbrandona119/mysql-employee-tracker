@@ -20,7 +20,7 @@
   "dependencies": {
     "cfonts": "^2.8.2",
     "console.table": "^0.10.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1",
     "util": "^0.12.3"
